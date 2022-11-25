@@ -1,2 +1,2 @@
-# aranharobo
+# CristalRobot
 The quadruped robot aims to be an object for leisure and to serve as an aid for studies on microcontrollers, programming and electronics. The quadruped robot, enhanced by team members, should offer various functions and actions, depending on the form of use desired by those who use it, aiming at a low cost, high performance, on account of the bank of three lithium batteries, and ease of handling, in order to offer a complete and fun experience, due to the intuitive and colorful design.
